@@ -5,8 +5,8 @@ const armorManager = require('mineflayer-armor-manager')
 const keep_alive = require('./keep_alive.js')
 
 const bot = mineflayer.createBot({
-    host: 'Niles_Yt.aternos.me',
-    port: 62719,
+    host: 'SakshamNehra.aternos.me',
+    port: 53763,
     username: 'APKbot',
     password: '',
     logErrors: false
